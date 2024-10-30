@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ltd-tickets\n"
+"POT-Creation-Date: 2017-08-01 09:45+0100\n"
+"PO-Revision-Date: 2017-08-01 10:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: London Theatre Direct\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: class-ltd-tickets-template-functions.php\n"
+
+#: class-ltd-tickets-template-functions.php:81
+#: class-ltd-tickets-template-functions.php:439
+msgid "Nearest Tube"
+msgstr "附近的地铁"
+
+#: class-ltd-tickets-template-functions.php:85
+msgid "Nearest Train"
+msgstr "最近的火车站"
+
+#: class-ltd-tickets-template-functions.php:99
+#: class-ltd-tickets-template-functions.php:102
+#: class-ltd-tickets-template-functions.php:445
+msgid "Seating Plan"
+msgstr "座位表"
+
+#: class-ltd-tickets-template-functions.php:101
+msgid "Click seating plan to see full size version"
+msgstr "点击座位表查看实际大小"
+
+#: class-ltd-tickets-template-functions.php:151
+#: class-ltd-tickets-template-functions.php:162
+#, php-format
+msgid "<span class=\"from\">From</span> %s"
+msgstr "%s 起"
+
+#: class-ltd-tickets-template-functions.php:153
+msgid "Click for prices"
+msgstr "点击查看价钱"
+
+#: class-ltd-tickets-template-functions.php:166
+msgid "Click \"Book Tickets\" for latest prices"
+msgstr "点击\"订票\"查看最新价钱"
+
+#: class-ltd-tickets-template-functions.php:198
+msgid "Book Tickets"
+msgstr "订票"
+
+#: class-ltd-tickets-template-functions.php:206
+msgid "No more performances!"
+msgstr "场次售罄"
+
+#: class-ltd-tickets-template-functions.php:266
+msgid "Image Gallery"
+msgstr "精彩图片"
+
+#: class-ltd-tickets-template-functions.php:270
+msgid "Image"
+msgstr "图片"
+
+#: class-ltd-tickets-template-functions.php:270
+msgid "images"
+msgstr "图片"
+
+#: class-ltd-tickets-template-functions.php:303
+msgid "Offer"
+msgstr "优惠"
+
+#: class-ltd-tickets-template-functions.php:339
+msgid "Minimum Age"
+msgstr "最低准入年龄"
+
+#: class-ltd-tickets-template-functions.php:362
+msgid "Important Notice"
+msgstr "重要提醒"
+
+#: class-ltd-tickets-template-functions.php:379
+msgid "Details"
+msgstr "详情"
+
+#: class-ltd-tickets-template-functions.php:384
+msgid "Starts"
+msgstr "开始"
+
+#: class-ltd-tickets-template-functions.php:388
+msgid "Ends"
+msgstr "结束"
+
+#: class-ltd-tickets-template-functions.php:393
+msgid "Running Time"
+msgstr "活动时间"
+
+#: class-ltd-tickets-template-functions.php:399
+msgid "Category"
+msgstr "类别"
+
+#: class-ltd-tickets-template-functions.php:400
+#: class-ltd-tickets-template-functions.php:518
+msgid "Tickets"
+msgstr "票务"
+
+#: class-ltd-tickets-template-functions.php:423
+#: class-ltd-tickets-template-functions.php:428
+msgid "Venue"
+msgstr "场地"
+
+#: class-ltd-tickets-template-functions.php:433
+msgid "Address"
+msgstr "地址"
+
+#: class-ltd-tickets-template-functions.php:434
+msgid "View Google Map"
+msgstr "查看Google地图"
+
+#: class-ltd-tickets-template-functions.php:446
+msgid "View Seating Plan"
+msgstr "查看座位表"
+
+#: class-ltd-tickets-template-functions.php:477
+msgid "All"
+msgstr "所有"
+
+#: class-ltd-tickets-template-functions.php:499
+msgid "Alphabetical (Asc)"
+msgstr "按首字母排序（A-Z）"
+
+#: class-ltd-tickets-template-functions.php:500
+msgid "Alphabetical (Desc)"
+msgstr "按首字母排序（Z-A）"
+
+#: class-ltd-tickets-template-functions.php:502
+msgid "Cheapest"
+msgstr "最便宜"
+
+#: class-ltd-tickets-template-functions.php:503
+msgid "Most Expensive"
+msgstr "最贵"
+
+#: class-ltd-tickets-template-functions.php:504
+msgid "Ending Soon"
+msgstr "即将结束"
+
+#: class-ltd-tickets-template-functions.php:505
+msgid "Coming Soon"
+msgstr "即将上演"
+
+#~ msgid "From"
+#~ msgstr "自…起"

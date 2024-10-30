@@ -1,0 +1,31 @@
+html #ukds-container {
+    margin:8.33%;
+        padding-bottom: 10%;
+    padding-top:8.33%;
+}
+
+.post-type-archive-ukds-products #ukds-container > .ukds-col-md-9,
+.post-type-archive-ukds-venues #ukds-container > .ukds-col-md-9,
+.tax-ukds-product-category #ukds-container > .ukds-col-md-9  {
+    width:100%
+}
+
+.ukds-product-bottom  > .ukds-product-single-right,
+.ukds-product-bottom  > .ukds-product-single-left {
+    width:100%;
+    right:unset;
+    left:unset;
+}
+
+
+#ukds-venue-product-list .widget {
+    padding:0
+}
+
+.ukds-product-grid-details {
+    min-height:150px;
+}
+
+.venue-post-left .widget {
+    padding:0;
+}

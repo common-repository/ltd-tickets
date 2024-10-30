@@ -1,0 +1,12 @@
+.single-ukds-products .single-featured-image-header,
+.single-ukds-venues .single-featured-image-header {
+    display:none
+}
+
+.post-type-archive-ukds-products #content,
+.tax-ukds-product-category #content,
+.single-ukds-products #content,
+.single-ukds-venues #content,
+.post-type-archive-ukds-venues #content {
+    padding-top:20px;
+}
